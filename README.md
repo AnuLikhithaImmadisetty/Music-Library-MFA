@@ -94,4 +94,3 @@ http://localhost:3000
 
 ## Enjoy Your Local Setup
 Your project is now running locally! If you encounter any issues, feel free to reach out for support.
-```
