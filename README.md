@@ -59,8 +59,6 @@ Server is working on PORT: 8000
 Database connected with localhost
 ```
 
----
-
 ### 3. Frontend Setup
 Set up the frontend by following these steps:
 
@@ -79,8 +77,6 @@ Go to the src folder inside the frontend directory, open the App.jsx file, and s
 ```javascript
 const baseUrl = "http://localhost:8000";
 ```
-
----
 
 ## Running the Application
 
