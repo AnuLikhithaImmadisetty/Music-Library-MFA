@@ -1,6 +1,5 @@
-# Music Player🎵- FinacPlus Assignment  
-Music Player is a web application that allows users to search for music and listen to 30-second song previews using the Spotify API. Built with React, Bootstrap, and the Spotify Web API (through NocodeAPI), this music player provides an easy way for users to explore and enjoy their favorite songs. Follow the steps below to set up and run the application which is FinacPlus Assignment locally. 
-
+# Music Player🎵 
+Music Player is a web application that allows users to search for music and listen to 30-second song previews using the Spotify API. Built with React, Bootstrap, and the Spotify Web API (through NocodeAPI), this music player provides an easy way for users to explore and enjoy their favorite songs. Follow the steps below to set up and run the application locally.
 ## Sign Up Page
 ![image](https://github.com/user-attachments/assets/190b510a-a96b-47f9-9a28-3c2ce523f8fa)
 
